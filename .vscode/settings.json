@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "**/*.meta": true,
+        
+        "Assets/_Game/Addressables": true,
+        "Assets/_Game/Art": true,
+        "Assets/_Game/Audio": true,
+        "Assets/_Game/Data": true,
+        "Assets/_Game/Prefabs": true,
+        "Assets/_Game/Resources": true,
+        "Assets/_Game/Scenes": true,
+        
+        "Packages": true
+    }
+}
