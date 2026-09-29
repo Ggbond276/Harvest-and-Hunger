@@ -107,3 +107,6 @@ InitTestScene*.unity*
 
 .vsconfig
 .idea/
+
+*.mdc
+.cursor/

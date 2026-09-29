@@ -106,8 +106,17 @@ public abstract class MonoSingleton<T> : MonoBehaviour where T : MonoBehaviour
         s_ApplicationIsQuitting = true;
     }
 
+    /// <summary>
+    /// 子类可以重写此方法,用于在 OnDestroy 时执行清理(替代原本的 OnDestroy)。
+    /// 基类会先调用本钩子,再清理静态引用,保证子类与基类的清理逻辑成对出现。
+    /// </summary>
+    protected virtual void OnSingletonDestroy() { }
+
     protected virtual void OnDestroy()
     {
+        // 先让子类清理自己的资源(事件订阅 / 非托管资源 / 缓存等)
+        OnSingletonDestroy();
+
         // 只有当前实例是单例本人时才清空静态引用
         if (s_Instance == this)
         {

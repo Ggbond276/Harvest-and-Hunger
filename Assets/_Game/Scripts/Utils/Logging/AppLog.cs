@@ -10,7 +10,7 @@
 //      * 原生集成 (Unity Debug)   : Warning/Error 触发原生图标与堆栈
 //
 //  推荐放置位置:
-//      Assets/Scripts/Logging/AppLog.cs
+//      Assets/_Game/Scripts/Utils/Logging/AppLog.cs
 //
 //  使用示例:
 //      // 1. 仅开启 UI 与 Combat 模块,其余关闭
@@ -33,7 +33,7 @@ using UnityEngine;
 using Object = UnityEngine.Object;
 using Debug = UnityEngine.Debug;
 
-namespace HarvestAndHunger.Logging
+namespace HarvestAndHunger.Utils.Logging
 {
     /// <summary>
     /// 业务模块枚举 —— 横轴。
@@ -284,3 +284,4 @@ namespace HarvestAndHunger.Logging
         public static void ResetModules() => EnabledModules = All;
     }
 }
+

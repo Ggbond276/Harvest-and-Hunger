@@ -2,10 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// AppLog 位于命名空间 HarvestAndHunger.Logging 下,这里显式 using 后可直接使用。
+// AppLog 位于命名空间 HarvestAndHunger.Utils.Logging 下,这里显式 using 后可直接使用。
 // 注意:AppLog 的所有公共 API 都用 [Conditional("UNITY_EDITOR")] 标记,
 // 因此本脚本在 Release 构建中不会有任何运行时开销。
-using HarvestAndHunger.Logging;
+using HarvestAndHunger.Utils.Logging;
 
 /// <summary>
 /// GameStart —— 挂载到场景后,运行时会在 Unity Console 中输出一整套 AppLog 演示日志。

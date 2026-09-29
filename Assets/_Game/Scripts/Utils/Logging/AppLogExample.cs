@@ -4,7 +4,7 @@
 //  AppLog 调用示例 —— 仅供参考,可直接挂在场景中任意 GameObject 上测试。
 // -----------------------------------------------------------------------------
 
-using HarvestAndHunger.Logging;
+using HarvestAndHunger.Utils.Logging;
 using UnityEngine;
 using UnityEngine.UI;
 
