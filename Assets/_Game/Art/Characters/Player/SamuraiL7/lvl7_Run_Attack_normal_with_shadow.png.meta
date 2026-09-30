@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: f47fa39fae8eb924499715ee1727dca2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 209
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb4918518e39a8458ec8654010c630c
+      internalID: -1169214198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 209
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc604c0b33e7fc4ea9263768ed58697
+      internalID: 2096068262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 209
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dd89b770f5b5449a7b641dc951cf1f
+      internalID: 1725747072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 209
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56b869d9cc699649be033bff6ee3589
+      internalID: -1905022508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 209
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c697e4e0b59d9a48be3e7c1cdc4a5e6
+      internalID: -259505280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 209
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceb094eb09a3e14e96765bbd787bf6c
+      internalID: 478766324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 209
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1b39afbe264254089e5bc9472db186
+      internalID: -217846353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 209
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2282001925b024a8a94d74ffe167bd
+      internalID: 1814359773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 145
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aca2c9bd2f1554ebcfc0c8c6a6b72c
+      internalID: -554006619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 145
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0697f2909bac7ba49b150bec28ba733e
+      internalID: 914307086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 145
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c466d9c934ecb54a9fb7e0b086e9d7c
+      internalID: 1743923244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 145
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b6f86bb8e472e45a31cd7bd979c82c
+      internalID: 478137081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 145
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3dcb6c97060e34f89c214010b37d0a
+      internalID: -1688187854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 145
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f545a9cecaa334197dd26cbfeb276e
+      internalID: 456995837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 145
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be20633bb69a9b46bef56ed96de4b1d
+      internalID: 1678880875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 145
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0250a4558a3c05b4cbd7cdb7ca276756
+      internalID: -1419223448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e0eddc4bc4e3a4d9b888c0d35bedaa
+      internalID: 837787722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 81
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63444549d888d8c4090e32a5cb171f6c
+      internalID: -398316825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 81
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd451667d56e0514c953365af0163f1f
+      internalID: -781599571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 81
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab876571b48f4ea47b0fd6a1e9bab33c
+      internalID: 1598334516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 81
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4763d12e73493429b3c2035486d163
+      internalID: 1128430856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 81
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2043d9760f38c0b46b7dbde2fb900038
+      internalID: 1624694523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 81
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a56b60bf283b9d4fa60316d9457502a
+      internalID: -843569242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 81
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20edb81f6327ea1458a7e2d296864ce0
+      internalID: 1359113100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 17
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c93891d81aae6c47930556aafce3891
+      internalID: -459218500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4406c017b2194074c843febd13a66ff0
+      internalID: 29026018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 17
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd3135c53f135b40924c3adb8acea5b
+      internalID: -750782864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 17
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f27d2c6e98a64d448d47b2e094b7bdd
+      internalID: -1083101971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 17
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659c6f32ceaed7b4aa258ff210a4e88d
+      internalID: 2112764961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 17
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d570671b92f0c46b643faa2137cd82
+      internalID: -896711405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 17
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95121001b30b9254e80a75056dee51dc
+      internalID: -1574335138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Run_Attack_normal_with_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 17
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f5e71d13f22e54e951186790ea873e
+      internalID: 1381967870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lvl7_Run_Attack_normal_with_shadow_0: -1169214198
+      lvl7_Run_Attack_normal_with_shadow_1: 2096068262
+      lvl7_Run_Attack_normal_with_shadow_10: 1743923244
+      lvl7_Run_Attack_normal_with_shadow_11: 478137081
+      lvl7_Run_Attack_normal_with_shadow_12: -1688187854
+      lvl7_Run_Attack_normal_with_shadow_13: 456995837
+      lvl7_Run_Attack_normal_with_shadow_14: 1678880875
+      lvl7_Run_Attack_normal_with_shadow_15: -1419223448
+      lvl7_Run_Attack_normal_with_shadow_16: 837787722
+      lvl7_Run_Attack_normal_with_shadow_17: -398316825
+      lvl7_Run_Attack_normal_with_shadow_18: -781599571
+      lvl7_Run_Attack_normal_with_shadow_19: 1598334516
+      lvl7_Run_Attack_normal_with_shadow_2: 1725747072
+      lvl7_Run_Attack_normal_with_shadow_20: 1128430856
+      lvl7_Run_Attack_normal_with_shadow_21: 1624694523
+      lvl7_Run_Attack_normal_with_shadow_22: -843569242
+      lvl7_Run_Attack_normal_with_shadow_23: 1359113100
+      lvl7_Run_Attack_normal_with_shadow_24: -459218500
+      lvl7_Run_Attack_normal_with_shadow_25: 29026018
+      lvl7_Run_Attack_normal_with_shadow_26: -750782864
+      lvl7_Run_Attack_normal_with_shadow_27: -1083101971
+      lvl7_Run_Attack_normal_with_shadow_28: 2112764961
+      lvl7_Run_Attack_normal_with_shadow_29: -896711405
+      lvl7_Run_Attack_normal_with_shadow_3: -1905022508
+      lvl7_Run_Attack_normal_with_shadow_30: -1574335138
+      lvl7_Run_Attack_normal_with_shadow_31: 1381967870
+      lvl7_Run_Attack_normal_with_shadow_4: -259505280
+      lvl7_Run_Attack_normal_with_shadow_5: 478766324
+      lvl7_Run_Attack_normal_with_shadow_6: -217846353
+      lvl7_Run_Attack_normal_with_shadow_7: 1814359773
+      lvl7_Run_Attack_normal_with_shadow_8: -554006619
+      lvl7_Run_Attack_normal_with_shadow_9: 914307086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

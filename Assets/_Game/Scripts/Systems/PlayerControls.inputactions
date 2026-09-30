@@ -24,9 +24,9 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "Dash",
+                    "name": "Run",
                     "type": "Button",
-                    "id": "79c5a57e-c259-460f-b4b9-5064e0285c8b",
+                    "id": "a4bfdd0f-4f2f-4a70-94db-be10442abe3b",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -133,28 +133,6 @@
                 },
                 {
                     "name": "",
-                    "id": "2b9c8f6b-d4dc-4b6b-aa0e-6b7b5f342f88",
-                    "path": "<Keyboard>/leftShift",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Dash",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "515fa9f7-6219-494a-94b1-7bfd829d957f",
-                    "path": "<Gamepad>/rightTrigger",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Dash",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "9f81a179-73cf-462a-a1d5-eb6dc1993f1b",
                     "path": "<Keyboard>/escape",
                     "interactions": "",
@@ -172,6 +150,17 @@
                     "processors": "",
                     "groups": "",
                     "action": "Menu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b3cb680b-e7ee-4635-a486-ec1f383ddbab",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Run",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
